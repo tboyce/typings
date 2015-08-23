@@ -2,6 +2,7 @@
 // Project: http://angularjs.org
 // Definitions by: Diego Vilar <http://github.com/diegovilar>
 // Definitions: https://github.com/borisyankov/DefinitelyTyped
+// hello
 
 
 /// <reference path="../jquery/jquery.d.ts" />
